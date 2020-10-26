@@ -5,3 +5,4 @@ C'est ce qu'on appelle une fusion (merging). Elle est réalisée par la commande
 salut ça va ? 
 etape 2
 etape 3
+etape 4
